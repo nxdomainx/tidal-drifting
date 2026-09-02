@@ -7,7 +7,7 @@ schedule and served straight from this repo.
 
 | name | type | entries | notes |
 |---|---|---|---|
-| `games` | `package_name` | 1117 | Android games, merged from curated gaming-module package lists |
+| `games` | `package_name` | 6698 | Android games — Play Store top charts merged with curated gaming-module package lists |
 
 Each rule-set ships three files:
 
