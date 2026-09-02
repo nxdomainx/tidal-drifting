@@ -1,4 +1,4 @@
-# dist
+# tidal-drifting
 
 Compiled [sing-box](https://sing-box.sagernet.org/) rule-sets, rebuilt on a
 schedule and served straight from this repo.
@@ -24,7 +24,7 @@ Each rule-set ships three files:
   "tag": "games",
   "type": "remote",
   "format": "binary",
-  "url": "https://raw.githubusercontent.com/nxdomainx/dist/main/games.srs",
+  "url": "https://raw.githubusercontent.com/nxdomainx/tidal-drifting/main/games.srs",
   "download_detour": "direct",
   "update_interval": "168h"
 }
