@@ -7,7 +7,7 @@ schedule and served straight from this repo.
 
 | name | type | entries | notes |
 |---|---|---|---|
-| `games` | `package_name` | 6698 | Android games — Play Store top charts merged with curated gaming-module package lists |
+| `games-android` | `package_name` | 6698 | Android games — Play Store top charts merged with curated gaming-module package lists |
 
 Each rule-set ships three files:
 
@@ -24,7 +24,7 @@ Each rule-set ships three files:
   "tag": "games",
   "type": "remote",
   "format": "binary",
-  "url": "https://raw.githubusercontent.com/nxdomainx/tidal-drifting/main/games.srs",
+  "url": "https://raw.githubusercontent.com/nxdomainx/tidal-drifting/main/games-android.srs",
   "download_detour": "direct",
   "update_interval": "168h"
 }
